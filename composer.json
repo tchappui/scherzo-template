@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-template",
+    "description": "Scherzo-template is the templating component used by the Scherzo educational web framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
